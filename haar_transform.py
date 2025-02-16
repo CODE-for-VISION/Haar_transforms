@@ -1,5 +1,8 @@
 
-
+"""
+Tutorial for inverse haar transform in below 
+https://www.youtube.com/watch?v=aEcIsx_aT6U
+"""
 class Haar_class:
 	
 	
